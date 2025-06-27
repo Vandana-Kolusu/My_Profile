@@ -20,27 +20,27 @@
 ## 🧰 My Tech Stack
 
 - **Languages**:  
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-  ![SQL](https://img.shields.io/badge/SQL-1572B6?logo=sqlite&logoColor=white)  
-  ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-FF9900?logo=javascript&logoColor=white)
+  ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
+  ![SQL](https://upload.wikimedia.org/wikipedia/commons/d/d6/SQLServer2022.svg)  
+  ![Java](https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg)  
+  ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
 
 - **Data Tools**:  
-  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white)  
-  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E35B56?logo=apache-spark&logoColor=white)  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
-  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017B76?logo=apache-airflow&logoColor=white)
+  ![Apache Kafka](https://upload.wikimedia.org/wikipedia/commons/0/06/Apache_Kafka_logo.svg)  
+  ![Apache Spark](https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg)  
+  ![Docker](https://upload.wikimedia.org/wikipedia/commons/a/a4/Docker_logo.svg)  
+  ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo.svg)  
+  ![Apache Airflow](https://upload.wikimedia.org/wikipedia/commons/1/1d/Apache_Airflow_Logo.svg)
 
 - **Cloud**:  
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
-  ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)  
-  ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)
+  ![AWS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)  
+  ![GCP](https://upload.wikimedia.org/wikipedia/commons/5/53/Google_Cloud_Logo.svg)  
+  ![Azure](https://upload.wikimedia.org/wikipedia/commons/0/0a/Microsoft_Azure_Logo.svg)
 
 - **Databases**:  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+  ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)  
+  ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/4/45/MongoDB_Logo.svg)  
+  ![MySQL](https://upload.wikimedia.org/wikipedia/commons/8/87/MySQL_logo.svg)
 
 ---
 
