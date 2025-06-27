@@ -14,7 +14,6 @@
 👩‍💻 [LinkedIn Profile](https://www.linkedin.com/in/vandana)
 
 ⚡ **Fun Fact**: I dance my stress away with K-pop during breaks! 💃🎶
-
 ---
 
 ## 🧰 My Tech Stack
