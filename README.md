@@ -20,27 +20,27 @@
 ## 🧰 My Tech Stack
 
 - **Languages**:  
-  ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
-  ![SQL](https://upload.wikimedia.org/wikipedia/commons/d/d6/SQLServer2022.svg)  
-  ![Java](https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg)  
-  ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/SQLServer2022.svg" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/>
 
 - **Data Tools**:  
-  ![Apache Kafka](https://upload.wikimedia.org/wikipedia/commons/0/06/Apache_Kafka_logo.svg)  
-  ![Apache Spark](https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg)  
-  ![Docker](https://upload.wikimedia.org/wikipedia/commons/a/a4/Docker_logo.svg)  
-  ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo.svg)  
-  ![Apache Airflow](https://upload.wikimedia.org/wikipedia/commons/1/1d/Apache_Airflow_Logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Apache_Kafka_logo.svg" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Docker_logo.svg" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo.svg" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Apache_Airflow_Logo.svg" width="40" height="40"/>
 
 - **Cloud**:  
-  ![AWS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)  
-  ![GCP](https://upload.wikimedia.org/wikipedia/commons/5/53/Google_Cloud_Logo.svg)  
-  ![Azure](https://upload.wikimedia.org/wikipedia/commons/0/0a/Microsoft_Azure_Logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_Cloud_Logo.svg" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Microsoft_Azure_Logo.svg" width="40" height="40"/>
 
 - **Databases**:  
-  ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)  
-  ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/4/45/MongoDB_Logo.svg)  
-  ![MySQL](https://upload.wikimedia.org/wikipedia/commons/8/87/MySQL_logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/MongoDB_Logo.svg" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/MySQL_logo.svg" width="40" height="40"/>
 
 ---
 
