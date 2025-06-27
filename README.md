@@ -1,54 +1,73 @@
-# Hi 👋, I'm Vandana  
-**Data Engineer** | **Cloud Enthusiast** | **K-pop Fan** | **Dancing Extraordinaire**  
-_Transforming raw data into valuable insights one pipeline at a time_  
+# Hi there, I'm Vandana 👋  
+**Data Engineer** | **Cloud & Data Enthusiast** | **K-pop Lover**  
 
 ![Header Image](https://via.placeholder.com/1200x300/4CAF50/FFFFFF?text=Data+Engineering+with+Vandana)
 
 ## About Me
 
-🔭 I’m currently working on building **real-time data pipelines** using **Apache Kafka** and **Apache Spark**  
-🌱 Exploring cloud technologies such as **AWS** and **GCP** to scale data architectures  
-👯 Looking to collaborate on big data and cloud-based projects  
-💬 Ask me about **data engineering**, **ETL pipelines**, **cloud architectures**, and **K-pop dance moves** (yes, really!)  
-📫 Reach me at: [vandana@email.com](mailto:vandana@email.com)  
+🔭 I’m currently working on building **real-time data pipelines** and enhancing **cloud data architectures** using **Apache Kafka**, **Apache Spark**, and **AWS**.  
+🌱 I'm currently exploring **machine learning** and how it can improve the predictive capabilities of the data pipelines I build.  
+🤝 I'm looking for opportunities to collaborate on cloud-based data projects and contribute to cutting-edge solutions that make data more accessible and useful.  
+💬 Ask me about **data engineering**, **ETL workflows**, **cloud architectures**, and **K-pop** (yes, I’m serious about both!).  
+📫 Reach out to me: [vandana@email.com](mailto:vandana@email.com)  
 📄 [Resume](https://www.your-resume-link.com)  
-👩‍💻 [LinkedIn Profile](https://www.linkedin.com/in/vandana)  
+👩‍💻 [LinkedIn Profile](https://www.linkedin.com/in/vandana)
 
-⚡ Fun Fact: I’m a K-pop enthusiast, and when I’m not crunching numbers, I’m practicing new dance routines to the latest hits! 💃🎧
-
-## 🌐 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/vandana)
-- [Gmail](mailto:vandana@email.com)
+⚡ **Fun Fact**: I dance my stress away with K-pop during breaks! 💃🎶
 
 ---
 
-## 🧰 Languages and Tools:
+## 🧰 My Tech Stack
 
-- **Languages**: Python, SQL, Java, JavaScript
-- **Tools**: Apache Kafka, Apache Spark, Docker, Kubernetes, Airflow, AWS, GCP
-- **Databases**: PostgreSQL, MongoDB, MySQL
-- **Other**: Git, Linux, React, Node.js, Docker, AWS, PostgreSQL, MongoDB
+- **Languages**:  
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+  ![SQL](https://img.shields.io/badge/SQL-1572B6?logo=sqlite&logoColor=white)  
+  ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-FF9900?logo=javascript&logoColor=white)
 
-## 📊 My Most Used Languages
+- **Data Tools**:  
+  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white)  
+  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E35B56?logo=apache-spark&logoColor=white)  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017B76?logo=apache-airflow&logoColor=white)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vandana&layout=compact&theme=tokyonight)
+- **Cloud**:  
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
+  ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)  
+  ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)
 
-## 💻 My Current Projects
+- **Databases**:  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-### 1. [Real-Time Data Pipeline](https://github.com/Vandana/Project-1)
-   - Building a real-time streaming **data pipeline** using **Apache Kafka** and **Apache Spark** for processing and analyzing data streams in real-time.
+---
 
-### 2. [ETL Automation](https://github.com/Vandana/Project-2)
-   - Automated ETL workflows with **Apache Airflow**, making data processing more efficient and error-free. Now if only I could automate my dance rehearsals! 😅
+## 📊 My Projects
 
-### 3. [Data Lake Architecture](https://github.com/Vandana/Project-3)
-   - Implemented a **data lake** using **AWS S3** for large-scale data storage and **AWS Glue** for data processing and transformation.
+### 1. [Real-Time Data Pipeline with Apache Kafka & Spark](https://github.com/Vandana/Project-1)
+   - Built a **real-time data pipeline** for processing and analyzing streaming data with **Apache Kafka** and **Apache Spark**.
+
+### 2. [ETL Automation with Apache Airflow](https://github.com/Vandana/Project-2)
+   - Automated **ETL workflows** using **Apache Airflow** to streamline data transformation and improve efficiency.
+
+### 3. [Data Lake Implementation with AWS](https://github.com/Vandana/Project-3)
+   - Created a **data lake** using **AWS S3** and **AWS Glue** for storing and processing large-scale data.
+
+---
+
+## 💬 Let’s Connect
+You can reach me at the following platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/vandana)
+- [Email](mailto:vandana@email.com)
 
 ---
 
 ## 📜 My Favorite Quote
-“Opportunities don't happen. You create them.” – **Chris Grosser**
+“Data is the new oil.” – **Clive Humby**
 
 ---
 
-Thanks for stopping by! Let’s create something amazing with data, and maybe even dance a little while we’re at it! 💥
+Thanks for visiting my profile! Let’s build something amazing with data, and maybe dance a little while we’re at it! 💥
